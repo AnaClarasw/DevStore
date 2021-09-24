@@ -50,7 +50,7 @@ input, button {
 }
 
 .devStore span {
-    color: #EA10C7;
+    color: #10EAEA;
 }
 
 .black-box {
@@ -83,7 +83,7 @@ input, button {
     height: 55px;
 
     background-color: white;
-    border-left: 4px solid  #EA10C7;
+    border-left: 4px solid  #10EAEA;
 
     color: #1A1A1A;
     font-size: 18px;
@@ -129,7 +129,7 @@ input, button {
 
 .left-button button {
     border-radius: 50%;
-    background-color: #986CDF;
+    background-color: #119FDC;
     width: 44px;
     height: 44px;
     border: none;
@@ -138,7 +138,7 @@ input, button {
 
 .refresh-button button {
     border-radius: 50%;
-    background-color: #986CDF;
+    background-color: #119FDC;
     width: 44px;
     height: 44px;
     border: none;
@@ -178,10 +178,10 @@ input, button {
 }
 
 .bar-new-produto {
-    border: 3px solid #986CDF;
+    border: 3px solid #119FDC;
     border-radius: .5em;
     margin-right: .4em;
-    background-color: #986CDF;
+    background-color: #119FDC;
 }
 
 .text-new-produto {
@@ -288,7 +288,7 @@ input {
     width: 106px;
     height: 36px;
 
-    background: #E911C6;
+    background: #119FDC;
     border-radius: 44px;
     border: none;
     color: white;
@@ -297,7 +297,7 @@ input {
     font-weight: bold;
 }
 
-.produtp-registered-box {
+.produto-registered-box {
     display: flex;
     flex-direction: column;
 
@@ -394,7 +394,7 @@ input {
  }
 
  thead {
-     background-color: #986CDF;
+     background-color: #6CC3DF;
     
      
      
@@ -457,7 +457,7 @@ img {
 
 .absolute {
     color: white;
-    background-color: #DB21BD;
+    background-color: #119FDC;
     border: 3px solid white;
     border-radius: 50%;
     position: absolute;
